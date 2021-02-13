@@ -49,6 +49,6 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=paulstgermain&show_icons=true&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://paul-stgermain/v2
+[website]: https://paul-stgermain.com/v2
 [twitter]: https://twitter.com/PaulStG1
 [linkedin]: https://www.linkedin.com/in/paul-stgermain/

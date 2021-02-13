@@ -1,8 +1,10 @@
 ![This is my banner photo](https://github.com/paulstgermain/paulstgermain/blob/main/assets/new%20banner.png?raw=true)
 
-### Hey, I'm Paul! 👋
+## Hey, I'm Paul! 👋
 
-## A Full-Stack Web Developer
+#### A Full-Stack Web Developer
+
+---
 
 - 🌱 I’m currently learning full-stack web development and technical interviewing at Lambda School
 - :brain: I consider myself to be a lifelong learner and self developer

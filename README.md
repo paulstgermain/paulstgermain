@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m a Full-Stack Developer and Release Manager @ Lambda School
+- 🌱 I’m a Full-Stack Developer and Release Manager @ BloomTech
 - :brain: I consider myself to be a lifelong learner and self developer
 - ⚡ Fun fact: I have a library in my house, enjoy photography, reading, and gaming in my off time, and my fiance & I have 9 cats who we adore
 - 💬 Ask me about my first website sometime :sweat_smile:

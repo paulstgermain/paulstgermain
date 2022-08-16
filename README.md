@@ -2,8 +2,6 @@
 
 ## Hey, I'm Paul! 👋
 
-#### A Full-Stack Web Developer
-
 ---
 
 - 🌱 I’m a Full-Stack Developer and Release Manager @ BloomTech

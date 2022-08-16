@@ -8,9 +8,9 @@
 
 - 🌱 I’m a Full-Stack Developer and Release Manager @ BloomTech
 - :brain: I consider myself to be a lifelong learner and self developer
-- ⚡ Fun fact: I have a library in my house, enjoy photography, reading, and gaming in my off time, and my fiance & I have 9 cats who we adore
+- ⚡ Fun fact: I enjoy photography, reading, and gaming in my off time, and my fiance & I have 9 cats who we adore
 - 💬 Ask me about my first website sometime :sweat_smile:
-- :rocket: Goals for 2022: Continue growing my skills, build more cool things, spend some time in nature
+- :rocket: Goals for 2022: Continue growing my skills, build more cool things, see more junior engineers kick-start their careers 🔥
 
 ### Languages and Tools:
 

@@ -2,11 +2,7 @@
 
 ## Hey, I'm Paul! 👋
 
-- 🌱 I’m a Full-Stack Developer and Release Manager @ BloomTech
-- :brain: I consider myself to be a lifelong learner and self developer
-- ⚡ Fun fact: I enjoy photography, reading, and gaming in my off time, and my fiance & I have 9 cats who we adore
-- 💬 Ask me about my first website sometime :sweat_smile:
-- :rocket: Goals for 2022: Continue growing my skills, build more cool things, see more junior engineers kick-start their careers 🔥
+As a full-stack developer with a passion for building intuitive, high-quality applications, I am excited to bring my two years of experience and leadership skills to a dynamic and forward-thinking team. My expertise spans both front-end and back-end development, and I am skilled at communicating complex technical concepts to both technical and non-technical stakeholders. I am always looking to learn and grow, and I am eager to join a company where I can contribute to exciting projects and make a real impact. Let's work together to build something amazing!
 
 ### Languages and Tools:
 

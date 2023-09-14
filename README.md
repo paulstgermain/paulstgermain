@@ -1,4 +1,4 @@
-![This is my banner photo](https://github.com/paulstgermain/paulstgermain/blob/main/assets/new%20banner.png?raw=true)
+![This is my banner photo](https://github.com/paulstgermain/paulstgermain/blob/main/assets/banner_squiggles.png?raw=true)
 
 ## Hey, I'm Paul! 👋
 
@@ -37,8 +37,6 @@ As a full-stack developer with a passion for building intuitive, high-quality ap
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="paulstgermain portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 

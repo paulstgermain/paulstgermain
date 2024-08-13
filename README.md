@@ -2,7 +2,9 @@
 
 ## Hey, I'm Paul! 👋
 
-As a full-stack developer with a passion for building intuitive, high-quality applications, I am excited to bring my two years of experience and leadership skills to a dynamic and forward-thinking team. My expertise spans both front-end and back-end development, and I am skilled at communicating complex technical concepts to both technical and non-technical stakeholders. I am always looking to learn and grow, and I am eager to join a company where I can contribute to exciting projects and make a real impact. Let's work together to build something amazing!
+As a web developer, I’ve had the privilege to work on various projects that align with my lifelong passion for digital creation. From leading the technical overhaul of a mobile app that digitizes handwritten stories to developing a browser extension for content aggregation, I strive to create functional and user-friendly applications.
+
+My technical expertise spans JavaScript, React, Node.js, Dart, and Flutter, and I take pride in writing clean, efficient code. I am constantly learning and evolving, always looking for new ways to push the boundaries of what technology can do. I’m excited about opportunities that allow me to blend my love for the internet with my technical skills to make a meaningful impact.
 
 ### Languages and Tools:
 

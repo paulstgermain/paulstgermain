@@ -11,5 +11,5 @@ Full-stack developer who likes building tools for nonprofits and small businesse
 
 🛠️ Currently rebuilding my portfolio  
 🎓 Deepening my AI-enhanced development understanding and workflows  
-🔗 [https://www.linkedin.com/in/paul-stgermain/](https://www.linkedin.com/in/paul-stgermain/)
+🔗 [https://www.linkedin.com/in/paul-stgermain/](https://www.linkedin.com/in/paul-stgermain/)  
 🔗 [https://paulstgermain.dev/](https://paulstgermain.dev/)
